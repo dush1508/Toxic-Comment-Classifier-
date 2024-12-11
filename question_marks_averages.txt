@@ -1,0 +1,8 @@
+Feature: Question_marks (marks)
+
+Toxic: 0.5851
+Severe Toxic: 0.3774
+Obscene: 0.4856
+Threat: 0.3347
+Insult: 0.4832
+Identity: 0.4406

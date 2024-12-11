@@ -1,0 +1,8 @@
+Feature: Sentiment_polarity (score)
+
+Toxic: -0.1166
+Severe Toxic: -0.2531
+Obscene: -0.1566
+Threat: -0.1538
+Insult: -0.1704
+Identity: -0.0935

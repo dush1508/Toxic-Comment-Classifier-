@@ -1,0 +1,8 @@
+Feature: Profanity_count (words)
+
+Toxic: 2.9760
+Severe Toxic: 13.1699
+Obscene: 4.1896
+Threat: 1.3912
+Insult: 3.9092
+Identity: 7.5480

@@ -1,0 +1,8 @@
+Feature: Average_word_length (characters)
+
+Toxic: 6.2435
+Severe Toxic: 6.6577
+Obscene: 6.0752
+Threat: 5.5546
+Insult: 6.1221
+Identity: 7.0974

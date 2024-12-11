@@ -1,0 +1,8 @@
+Feature: Exclamation_marks (marks)
+
+Toxic: 3.6317
+Severe Toxic: 16.2759
+Obscene: 3.3301
+Threat: 16.8222
+Insult: 3.7315
+Identity: 2.3117

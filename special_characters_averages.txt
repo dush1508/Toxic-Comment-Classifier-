@@ -1,0 +1,8 @@
+Feature: Special_characters (characters)
+
+Toxic: 14.4489
+Severe Toxic: 29.8313
+Obscene: 13.8434
+Threat: 27.7238
+Insult: 13.4134
+Identity: 11.8477

@@ -1,0 +1,8 @@
+Feature: Length (characters)
+
+Toxic: 295.2460
+Severe Toxic: 453.6351
+Obscene: 286.7848
+Threat: 307.7406
+Insult: 277.2848
+Identity: 308.5409

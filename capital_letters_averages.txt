@@ -1,0 +1,8 @@
+Feature: Capital_letters (letters)
+
+Toxic: 44.1909
+Severe Toxic: 154.9273
+Obscene: 50.5088
+Threat: 76.2971
+Insult: 49.3298
+Identity: 72.0306

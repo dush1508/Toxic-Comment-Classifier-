@@ -1,0 +1,8 @@
+Feature: Stopword_ratio (ratio)
+
+Toxic: 0.0070
+Severe Toxic: 0.0137
+Obscene: 0.0105
+Threat: 0.0102
+Insult: 0.0090
+Identity: 0.0093

@@ -1,0 +1,8 @@
+Feature: Sentence_count (sentences)
+
+Toxic: 7.8485
+Severe Toxic: 20.7730
+Obscene: 7.3876
+Threat: 21.7238
+Insult: 7.5214
+Identity: 5.9858

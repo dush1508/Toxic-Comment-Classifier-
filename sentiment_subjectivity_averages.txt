@@ -1,0 +1,8 @@
+Feature: Sentiment_subjectivity (score)
+
+Toxic: 0.4875
+Severe Toxic: 0.5368
+Obscene: 0.5075
+Threat: 0.4484
+Insult: 0.5143
+Identity: 0.4951
